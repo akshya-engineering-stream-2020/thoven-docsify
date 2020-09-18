@@ -2,7 +2,7 @@
 
 > Thoven is a web application that allows users to save bookmarks
 > represented by cards. Each card has a short title, brief description and 
-> user can generate short url which can shared with other users. 
+> user can generate short url which can be shared with other users. 
 > In case you are wondering why the name Thoven? Thoven name is inspired by Thoven Stevens
 > who first introduced us with his Book Markers(Bookmarks).
 
@@ -76,8 +76,7 @@
 
 *  travis CI: https://travis-ci.org/github/akshya-engineering-stream-2020
 *  Codecov: https://codecov.io/gh/akshya-engineering-stream-2020
-*  Codacy: https://app.codacy.com/gh/akshya-engineering-stream-2020/thoven-api/dashboard
-
+*  Codacy: https://app.codacy.com/organizations/gh/akshya-engineering-stream-2020/repositories
 ## Future Developments
 
 * User can search for groups and request the admin for to add the user (like facebook).
