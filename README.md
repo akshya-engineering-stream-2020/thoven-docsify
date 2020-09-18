@@ -3,7 +3,7 @@
 > Thoven is a web application that allows users to save bookmarks
 > represented by cards. Each card has a short title, brief description and 
 > user can generate short url which can be shared with other users. 
-> In case you are wondering why the name Thoven? Thoven name is inspired by Thoven Stevens
+> In case you are wondering why the name Thoven? Thoven name is inspired by Thomas Stevens
 > who first introduced us with his Book Markers(Bookmarks).
 
 ## Technology Stack
