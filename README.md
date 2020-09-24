@@ -77,6 +77,7 @@
 *  travis CI: https://travis-ci.org/github/akshya-engineering-stream-2020
 *  Codecov: https://codecov.io/gh/akshya-engineering-stream-2020
 *  Codacy: https://app.codacy.com/organizations/gh/akshya-engineering-stream-2020/repositories
+
 ## Future Developments
 
 * User can search for groups and request the admin for to add the user (like facebook).
@@ -89,7 +90,7 @@
 ## Deployment
 
 > Backend and Frontend : Heroku   
-> Database : Free MySQL Hosting
+> Database : Clever Cloud
 
 ## References
 
